@@ -1,0 +1,7 @@
+C:\Users\Holme Ask\Documents\private\Excel addins\SQlite-Excel\C-sharp\ExcelSQlite\ExcelSQlite\bin\Release\AddIn.dna
+C:\Users\Holme Ask\Documents\private\Excel addins\SQlite-Excel\C-sharp\ExcelSQlite\ExcelSQlite\bin\Release\AddIn.xll
+C:\Users\Holme Ask\Documents\private\Excel addins\SQlite-Excel\C-sharp\ExcelSQlite\ExcelSQlite\bin\Release\ExcelSQlite.dll
+C:\Users\Holme Ask\Documents\private\Excel addins\SQlite-Excel\C-sharp\ExcelSQlite\ExcelSQlite\bin\Release\ExcelSQlite.pdb
+C:\Users\Holme Ask\Documents\private\Excel addins\SQlite-Excel\C-sharp\ExcelSQlite\ExcelSQlite\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Holme Ask\Documents\private\Excel addins\SQlite-Excel\C-sharp\ExcelSQlite\ExcelSQlite\obj\Release\ExcelSQlite.dll
+C:\Users\Holme Ask\Documents\private\Excel addins\SQlite-Excel\C-sharp\ExcelSQlite\ExcelSQlite\obj\Release\ExcelSQlite.pdb

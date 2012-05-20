@@ -1,0 +1,3 @@
+﻿<DnaLibrary Name="Excel SQlite" RuntimeVersion="v4.0">
+  <ExternalLibrary Path="ExcelSQlite.dll" />
+</DnaLibrary>
